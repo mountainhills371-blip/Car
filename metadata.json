@@ -1,0 +1,6 @@
+{
+  "name": "Asphalt Nitro 3D",
+  "description": "Adrenaline-fueled 3D arcade car racing game with hypercars, nitro boosts, drifts, and AI race engineer powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
